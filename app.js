@@ -1,4 +1,4 @@
-const API_KEY = 'd1dced6bcbc7fb5f84d185d43bcca306';
+const API_KEY = '';
 document.querySelector('#cardll').style.display = 'none';
 
 //Storing weather data
